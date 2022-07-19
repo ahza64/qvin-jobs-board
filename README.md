@@ -1,3 +1,8 @@
+Clone repo. The backend is running a separate micro service, so only the react server will need to be ran on the front end with "npm run start" or "yarn start". If you don't have node on your local system, you'll need it in order to run development mode. Below is simply the outline given with the "create-react-app" package.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
